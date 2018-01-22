@@ -1,4 +1,5 @@
-The goal of the first exercise is to implement skip-gram with negative-sampling from scratch. 
+# Goal:
+Implement skip-gram with negative-sampling from scratch. 
 # Formatting:
 - call your main python function (the one that should be executed) main.2.py or main.3.py
 - please use main.2.py if you use python2.x and main.3.py if you use python3.x
